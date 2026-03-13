@@ -30,7 +30,7 @@ export function Navbar() {
               </svg>
             </div>
             <span className="text-lg font-extrabold tracking-tight text-stone-100 group-hover:text-amber-400 transition-colors">
-              FakeShop
+              FakeShop by Bishu
             </span>
           </Link>
 
