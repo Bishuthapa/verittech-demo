@@ -31,7 +31,7 @@ export default async function HomePage() {
         </h1>
 
         <p className="text-xl text-stone-400 max-w-2xl mx-auto mb-10 leading-relaxed">
-          Discover curated products across electronics, fashion, jewellery and more.
+          Discover the latest products across electronics, fashion, jewellery and more.
           Built with Next.js &amp; TypeScript.
         </p>
 
