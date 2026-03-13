@@ -18,7 +18,7 @@ export default function LoginPage() {
       <div className="min-h-[60vh] flex items-center justify-center px-4">
         <div className="text-center">
           <p className="text-xl text-stone-200 mb-4">
-            You're already signed in as{" "}
+            You&apos;re already signed in as{" "}
             <span className="text-amber-400 font-bold">{auth.username}</span>
           </p>
           <Link href="/products">
